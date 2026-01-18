@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a full time software engineer since 2013 focused on .NET, OOP, DDD, Scrum, Architecture and Cloud.
 
+- I'm currently working as Software Architect at Moka United which is a Payment Orchestrator in Turkey.
+- Still learning about DDD and Software Architecture
 <!--
 **yakupbugra/yakupbugra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
