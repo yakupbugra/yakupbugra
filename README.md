@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a full time software engineer since 2013 focused on .NET, OOP, DDD, Scrum, Architecture and Cloud.
 
 <!--
 **yakupbugra/yakupbugra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
